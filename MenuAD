@@ -92,4 +92,5 @@ while($opciones -ne 0)
 }
 }
 EMPRESA ; Write-host "opción a elegir"
+
 ```
