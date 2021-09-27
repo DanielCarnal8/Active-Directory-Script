@@ -1,5 +1,5 @@
 # MENU PARA CREAR LA ESTRUCTURA DE AD (USUARIOS, OUs, ETC)
-```PowerShell
+```Powershell
 function EMPRESA($opciones)
 {
        
